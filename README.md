@@ -24,13 +24,13 @@ This repository contains my second React learning project built with React and V
 Clone this repository:
 
 ```bash
-git clone https://github.com/Amay135/react-2.git
+git clone https://github.com/Amay135/react-fundamentals-part-2.git
 ```
 
 Go to the project directory:
 
 ```bash
-cd react-2
+cd react-fundamentals-part-2
 ```
 
 Install dependencies:
